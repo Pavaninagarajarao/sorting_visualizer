@@ -15,5 +15,7 @@ To run this project, you need to have Python installed along with the following 
 You can install the dependencies using pip:
 ```bash
 pip install numpy matplotlib
-![Bubble sort Demo]
-(https://github.com/Pavaninagarajarao/sorting_visualizer/blob/master/Screen%20Recording%202025-12-24%20125112.mp4)
+
+
+Bubble sort Demo
+https://github.com/Pavaninagarajarao/sorting_visualizer/blob/master/Screen%20Recording%202025-12-24%20125112.mp4
