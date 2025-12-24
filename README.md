@@ -16,12 +16,7 @@ You can install the dependencies using pip:
 ```bash
 pip install numpy matplotlib
 
-Project Demo:
-## 🎥 Demo
 
-Watch the bubble sort animation:
-
-![Bubble Sort Demo] (Bubble-Sort-demo.gif)
 
 
 
