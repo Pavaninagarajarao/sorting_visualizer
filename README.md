@@ -16,8 +16,7 @@ You can install the dependencies using pip:
 ```bash
 pip install numpy matplotlib
 
-Project Demo
+Project Demo:
 
-https://github.com/Pavaninagarajarao/sorting_visualizer/blob/master/Screen%20Recording%202025-12-24%20125112.mp4
 
 
