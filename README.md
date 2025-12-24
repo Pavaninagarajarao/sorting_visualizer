@@ -21,7 +21,7 @@ Project Demo:
 
 Watch the bubble sort animation:
 
-https://github.com/Pavaninagarajarao/sorting_visualizer/blob/master/Bubble-Sort-demo.mp4
+
 
 
 
