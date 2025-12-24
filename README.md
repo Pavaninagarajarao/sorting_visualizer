@@ -21,7 +21,7 @@ Project Demo:
 
 Watch the bubble sort animation:
 
-
+![Bubble Sort Demo] (
 
 
 
