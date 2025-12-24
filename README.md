@@ -21,7 +21,7 @@ Project Demo:
 
 Watch the bubble sort animation:
 
-[▶️ Bubble Sort Demo on Google Drive](https://drive.google.com/file/d/1KeddeiENSVeEAWObW__PsopprdEeZlO4/view?usp=sharing)
+https://github.com/Pavaninagarajarao/sorting_visualizer/blob/master/Bubble-Sort-demo.mp4
 
 
 
