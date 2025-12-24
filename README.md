@@ -17,6 +17,11 @@ You can install the dependencies using pip:
 pip install numpy matplotlib
 
 Project Demo:
+## 🎥 Demo
+
+Watch the bubble sort animation:
+
+[▶️ Bubble Sort Demo]()
 
 
 
